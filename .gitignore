@@ -1,0 +1,5 @@
+Thumbs.db
+composer.phar
+.idea/
+vendor/
+bower_components/

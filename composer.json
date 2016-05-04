@@ -1,0 +1,13 @@
+{
+    "name": "rapha-mb/muapicms",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Raphael Abreu",
+            "email": "raphamirra@outlook.com"
+        }
+    ],
+    "require": {
+		"nategood/httpful": "*"
+	}
+}
